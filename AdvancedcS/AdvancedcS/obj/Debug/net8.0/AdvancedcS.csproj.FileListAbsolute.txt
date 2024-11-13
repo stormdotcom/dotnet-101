@@ -1,0 +1,14 @@
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.AssemblyInfoInputs.cache
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.AssemblyInfo.cs
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.csproj.CoreCompileInputs.cache
+D:\code\dotnet\AdvancedcS\AdvancedcS\bin\Debug\net8.0\AdvancedcS.exe
+D:\code\dotnet\AdvancedcS\AdvancedcS\bin\Debug\net8.0\AdvancedcS.deps.json
+D:\code\dotnet\AdvancedcS\AdvancedcS\bin\Debug\net8.0\AdvancedcS.runtimeconfig.json
+D:\code\dotnet\AdvancedcS\AdvancedcS\bin\Debug\net8.0\AdvancedcS.dll
+D:\code\dotnet\AdvancedcS\AdvancedcS\bin\Debug\net8.0\AdvancedcS.pdb
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.dll
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\refint\AdvancedcS.dll
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.pdb
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\AdvancedcS.genruntimeconfig.cache
+D:\code\dotnet\AdvancedcS\AdvancedcS\obj\Debug\net8.0\ref\AdvancedcS.dll
