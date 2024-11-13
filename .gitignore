@@ -1,0 +1,45 @@
+# Build Folders
+bin/
+obj/
+
+# .NET Core generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+# Include if NuGet Package Restore is enabled (VS2017+)
+!.nuget/
+# Exclude all NuGet packages
+packages/
+# Uncomment if keeping any NuGet packages you want to be included
+# !/packages/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider & ReSharper
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# Local History
+.localhistory/
+
+# Backup & garbage files
+*.bak
+*.orig
+*.tmp
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
