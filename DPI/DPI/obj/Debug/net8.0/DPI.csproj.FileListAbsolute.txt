@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\DPI\DPI\bin\Debug\net8.0\DPI.exe
+C:\Users\HP\source\repos\DPI\DPI\bin\Debug\net8.0\DPI.deps.json
+C:\Users\HP\source\repos\DPI\DPI\bin\Debug\net8.0\DPI.runtimeconfig.json
+C:\Users\HP\source\repos\DPI\DPI\bin\Debug\net8.0\DPI.dll
+C:\Users\HP\source\repos\DPI\DPI\bin\Debug\net8.0\DPI.pdb
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.AssemblyInfo.cs
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.dll
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\refint\DPI.dll
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.pdb
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\DPI.genruntimeconfig.cache
+C:\Users\HP\source\repos\DPI\DPI\obj\Debug\net8.0\ref\DPI.dll
